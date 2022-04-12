@@ -1,0 +1,7 @@
+[mysql]
+  dbname  = "boxers"
+  host    = "boxers_db"
+  port    = 3306
+  user    = "root"
+  pass    = "rootpass"
+  sslmode = "false"
